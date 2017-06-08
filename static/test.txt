@@ -1,0 +1,8 @@
+Welcome to Issues!
+
+Issues are used to track todos, bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, you should create an issue.
+
+
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll create a repository, start a branch,
+write comments, and open a pull request.
