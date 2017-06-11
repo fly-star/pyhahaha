@@ -1,0 +1,46 @@
+h1 {
+	border-top: 0px;
+	border-bottom: 0px;
+	background-color: #004080;
+	height: 100px;
+	color: white;
+	/*text-align: center;*/
+	vertical-align: middle;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+div#form {
+	background-color: #78B8F8;
+	height: 300px;
+	border-bottom: 0px;
+	border-top: 0px; 
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p#prompt {
+	margin: 20px;
+	padding: 10px;
+}
+form {
+	margin: 20px;
+	padding: 10px;
+}
+
+div#name {
+	margin: 10px;
+}
+
+div#contents {
+	margin: 10px;
+}
+
+label#content {
+/*	text-align: center;*/
+}
+
+textarea {
+	width: 300px;
+	height: 100px;
+}
